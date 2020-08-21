@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rob_control", "rob_control\rob_control.csproj", "{77D0A3A3-C1D2-4424-8374-2D007940DB67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77D0A3A3-C1D2-4424-8374-2D007940DB67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77D0A3A3-C1D2-4424-8374-2D007940DB67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77D0A3A3-C1D2-4424-8374-2D007940DB67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77D0A3A3-C1D2-4424-8374-2D007940DB67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C97BB52-C947-4D05-87D6-B57287C9112F}
+	EndGlobalSection
+EndGlobal

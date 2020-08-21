@@ -1,0 +1,10 @@
+D:\桌面\robot\rob_control\rob_control\bin\Debug\rob_control.exe.config
+D:\桌面\robot\rob_control\rob_control\bin\Debug\rob_control.exe
+D:\桌面\robot\rob_control\rob_control\bin\Debug\rob_control.pdb
+D:\桌面\robot\rob_control\rob_control\obj\Debug\rob_control.csprojAssemblyReference.cache
+D:\桌面\robot\rob_control\rob_control\obj\Debug\rob_control.Form1.resources
+D:\桌面\robot\rob_control\rob_control\obj\Debug\rob_control.Properties.Resources.resources
+D:\桌面\robot\rob_control\rob_control\obj\Debug\rob_control.csproj.GenerateResource.cache
+D:\桌面\robot\rob_control\rob_control\obj\Debug\rob_control.csproj.CoreCompileInputs.cache
+D:\桌面\robot\rob_control\rob_control\obj\Debug\rob_control.exe
+D:\桌面\robot\rob_control\rob_control\obj\Debug\rob_control.pdb
